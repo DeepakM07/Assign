@@ -1,0 +1,21 @@
+body
+{
+    text-align:center;
+    background:rgb(154, 115, 56);
+}
+h3{
+
+    font-family:BOLD; 
+    font-size: 25pt;         
+    font-style: normal; 
+    font-weight: bold; 
+    color:red;
+  }
+  
+  table,tr,td
+  {
+    border:1px solid black;
+    font-family:f;
+    border-collapse:collapse;
+    padding: 10px;;
+  }
