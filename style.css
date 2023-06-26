@@ -1,7 +1,7 @@
 body
 {
     text-align:center;
-    background:rgb(154, 115, 56);
+    background-color:rgb(228, 140, 26);
 }
 h3{
 
@@ -11,11 +11,10 @@ h3{
     font-weight: bold; 
     color:red;
   }
-  
-  table,tr,td
-  {
-    border:1px solid black;
-    font-family:f;
-    border-collapse:collapse;
-    padding: 10px;;
-  }
+table tr td 
+{
+      border: 1px solid black;
+      border-collapse: collapse; 
+      padding: 10px;
+
+}  
