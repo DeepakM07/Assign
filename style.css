@@ -1,7 +1,7 @@
 body
 {
     text-align:center;
-    background-color:rgb(228, 140, 26);
+    background-color:whitesmoke;
 }
 h3{
 
@@ -9,7 +9,7 @@ h3{
     font-size: 25pt;         
     font-style: normal; 
     font-weight: bold; 
-    color:red;
+    color:black;
   }
 table tr td 
 {
@@ -18,3 +18,11 @@ table tr td
       padding: 10px;
 
 }  
+img
+{
+  width: 75px;
+}
+.inputstyle,textarea
+{
+  width: 100%;
+}
